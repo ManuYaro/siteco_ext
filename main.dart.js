@@ -21455,7 +21455,7 @@ var $async$k9=A.a2(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:f=B.ew
 e=!0
 p=4
-n="http://ytech-bf.com/siteco/public/api/"+a
+n="https://ytech-bf.com/siteco/public/api/"+a
 s=e?7:9
 break
 case 7:s=10
